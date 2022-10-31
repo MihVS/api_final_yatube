@@ -5,7 +5,7 @@
 Yatube, в зависимости от статуса пользователя. 
 Аутентификация реализована по JWT-токену.
 
-### **Технологии**
+## **Технологии**
 ![python version](https://img.shields.io/badge/Python-3.9-yellowgreen?logo=python)
 ![django version](https://img.shields.io/badge/Django-2.2-yellowgreen?logo=django)
 ![djangorestframework version](https://img.shields.io/badge/djangorestframework-3.12-yellowgreen?logo=django)
